@@ -10,6 +10,7 @@ this project, refer to the below table when wiring up the controller cable to yo
 Particle Photon or other device. Do note that a third party extension cable can be
 found for less than 10 American dollars shipped, so it is wholly unnecessary to
 destory a working original.
+
 | Pin   | Color |
 | ---   | ---   |
 | +5V    | ??? |
